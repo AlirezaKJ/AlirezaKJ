@@ -6,3 +6,5 @@
 - 🔭 I’m currently working on <a href="https://github.com/AlirezaKJ/BetterSoundCloud">BetterSoundCloud</a>
 - 🌱 I’m currently learning <a href="https://www.electronjs.org/"> Electron JS </a>
 - 🥇 My Top Repo's Are: <a href="https://github.com/AlirezaKJ/BetterSoundCloud">BetterSoundCloud</a> | <a href="https://github.com/AlirezaKJ/Quake"> Quake </a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jo2eec72fh7v6qzkt34z66naa4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31jo2eec72fh7v6qzkt34z66naa4&redirect=true)
